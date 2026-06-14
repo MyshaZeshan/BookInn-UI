@@ -21,17 +21,6 @@ The website showcases a clean and visually appealing design that highlights book
 * HTML5
 * CSS3
 
-## Project Structure
-
-```
-BookInn/
-├── index.html
-├── style.css
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-```
 
 ## Getting Started
 
