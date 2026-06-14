@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.c5b2747be236f15c6beead918a0062ef?rik=3xAQFsq44DFsfQ&riu=http%3a%2f%2fimg02.deviantart.net%2febc2%2fi%2f2013%2f159%2f4%2f7%2fpile_of_books_on_a_black_background_by_macinivnw-d68c8a1.jpg&ehk=twfYMiI8Fo2XtATOuCGIreByTSdFFvJ86UsE9LlOQR0%3d&risl=&pid=ImgRaw&r=0);
+   
+}
+.box{
+    padding-left: 550px;
+    margin-top: 300px;
+    
+    
+
+}
+h1{
+    
+    margin: 0 0 15px 58px;
+    font-size: 53px;
+    background-image: url(https://th.bing.com/th/id/OIP.dczpzlPQcDx15f7NNUmn3wHaEo?w=1280&h=800&rs=1&pid=ImgDetMainn);
+    background-position: center;
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Roboto' , sans-serif;
+}
+
+    
+    input[type=text]{
+    background-color: white;
+    width: 310px;
+    height: 40px;
+    padding: 0 15px;
+    border: none;
+    outline: none;
+    border-radius: 25px 0 0 25px;
+    
+}
+
+
+input[type="submit"]{
+    background-color: rgb(9, 209, 249);
+    width:60px ;
+    height:40px ;
+    border: none;
+    border-radius: 0 25px 25px 0;
+    outline: none;
+    margin-left: -10px;
+
+}
+input[type="submit"]:hover{
+    background-color:#c8c8d8;
+    transition: 0.4s;
+    transform: scaleX(1.2);
+}
+
+
